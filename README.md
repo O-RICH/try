@@ -1,2 +1,2 @@
 # try
-try repo
+try repo for git commands demonstration
